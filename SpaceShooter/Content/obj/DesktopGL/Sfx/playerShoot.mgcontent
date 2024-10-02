@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sfx/playerShoot.wav</SourceFile>
+  <SourceTime>2024-05-04T23:56:50.4854183+02:00</SourceTime>
+  <DestFile>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/bin/DesktopGL/Sfx/playerShoot.xnb</DestFile>
+  <DestTime>2024-05-05T21:09:54.822502+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

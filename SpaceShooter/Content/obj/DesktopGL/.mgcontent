@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Fonts/georgia.spritefont</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Music/bgMusic.mp3</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Music/menuMusic.mp3</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sfx/alarm.wav</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sfx/explosion.wav</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sfx/hit.wav</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sfx/playerShoot.wav</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/asteroid.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/bullet.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/enemyBullet.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/explosion.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/falcon.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/gameoverImage.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/health.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/menuBackground.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/space.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/tieFighter.png</File>
+    <File>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Sprites/winScreen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

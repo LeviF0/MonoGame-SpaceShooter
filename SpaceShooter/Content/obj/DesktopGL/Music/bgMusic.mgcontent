@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/Music/bgMusic.mp3</SourceFile>
+  <SourceTime>2024-05-04T23:47:47.9836105+02:00</SourceTime>
+  <DestFile>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/bin/DesktopGL/Music/bgMusic.xnb</DestFile>
+  <DestTime>2024-05-05T21:09:53.1221087+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Levi/source/repos/SpaceShooter/SpaceShooter/Content/bin/DesktopGL/Music/bgMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
